@@ -21,6 +21,7 @@
         </template>
       </el-upload>
     </div>
+    <a href="https://beian.miit.gov.cn/" target="_blank">备案号：滇ICP备2024029954号-2</a>
   </div>
 </template>
 
